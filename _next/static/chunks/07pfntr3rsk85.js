@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,54890,e=>{e.q("/_next/static/media/engine.worker.0_t8kjppiep39.ts")}]);
