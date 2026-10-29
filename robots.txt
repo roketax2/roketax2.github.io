@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://www.stalzoneai.com
+Sitemap: https://www.stalzoneai.com/sitemap.xml
